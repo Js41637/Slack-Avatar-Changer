@@ -1,6 +1,8 @@
 # Slack Avatar Changer
 Changes your Slack avatar over a period of time to random predefined images.
 
+Create a directory called `images` in the root directory and your good to go.
+
 ## Installation
 #### Install the required package dependencies
 ```npm install```
